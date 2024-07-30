@@ -1,5 +1,5 @@
 ## IOS developer
-## BSU student
+## BSU FAMCS student
 ## Contacts
-Gmail - alekseyzubel@gmail.com
-Telegram - @Aleksei_Zubel
+- Gmail - alekseyzubel@gmail.com
+- Telegram - @Aleksei_Zubel
